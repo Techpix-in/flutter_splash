@@ -68,7 +68,7 @@ class MainActivity : FlutterActivity() {
     }
 
     private companion object {
-        const val SPLASHSCREEN_ALPHA_ANIMATION_DURATION = 1000L
+        const val SPLASHSCREEN_ALPHA_ANIMATION_DURATION = 5000L
         const val WAIT_FOR_AVD_TO_FINISH = false
     }
 }
